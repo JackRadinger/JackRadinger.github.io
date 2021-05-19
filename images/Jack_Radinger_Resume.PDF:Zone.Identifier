@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.livecareer.com/documenthome?doctypecd=rsme
+HostUrl=https://www.livecareer.com/eb/api/v2/documents/download?userId=fb6f4111-75c8-4695-a835-60670d36a354&documentId=589af99e-b804-4f71-868c-6558bfa27046&portalId=3&fileFormatType=PDF&docFileType=rPDF&styleSheetName=RbtoHtml2&skipCacheCheck=true&isPrint=false&templateName=esteemed&sendDownloadEvent=true&downloadSVG=false&request={%22eventType%22:%22download%22,%22productCD%22:%22RWZ%22,%22eventDetails%22:[{%22name%22:%22screen%20name%22,%22value%22:%22document%20home%22}],%22userPreferences%22:%22%22}
